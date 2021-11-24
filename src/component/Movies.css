@@ -1,0 +1,22 @@
+.cardgroup{
+    display: flex;
+}
+
+.moviecard{
+    box-sizing: border-box;
+    margin: 10px;
+    width: 18%;
+    border: 1px solid lightgray;
+    padding : 20px 10px;
+    font-size : 20px;
+}
+
+.rating{
+    font-weight: bold;
+    font-size: 25px;
+}
+.rating span{
+    font-weight: normal;
+    color: gray;
+    font-size: 20px;
+}
